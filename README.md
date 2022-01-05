@@ -14,7 +14,9 @@ The following graphs compare both runs for the original and the refactored code 
 |-------|-------|
 | ![2017 run original](/Resources/Original_2017.png)  | ![2017 run refactored](/Resources/VBA_Challenge_2017.png) |
 
-
+| 2018 Run for original code | 2018 for refactored code |
+|-------|-------|
+| ![2018 run original](/Resources/Original_2018.png)  | ![2018 run refactored](/Resources/VBA_Challenge_2018.png) |
 
 
 ## Summary
