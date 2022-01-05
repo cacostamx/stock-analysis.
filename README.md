@@ -71,12 +71,14 @@ In the case of the stock analysis code, evidently the objective was accomplished
 When refactoring code we can find ourselves with advantages and disadvantages such as:
 
 **Advantages**
+
     - Of course, the main advantage is that the final code will run faster and smoothly.
     - We can optimize loops or amount of coding by the use of general variables.
     - Antoher one is that we can find some bugs or logical errors that are not evident in the first run because the code may run without errors until specific cases.
     - We can make the structure cleaner and add comments so further reviews by peers can be easier.
 
 **Disadvantages**
+
     - I think that the main disadvantage of refactoring is the time employed in going through all the code. Especially if it is long enough.
     - It can derive into complexity instead of just the original objective (i.e. making it cleaner, faster running, etc.).
     - One could get lost in the changes done after a lot of refactoring. Hoping comments will help with this.
